@@ -1,0 +1,28 @@
+Web3Function Build result:
+ ✓ Schema: web3-functions/oracle/schema.json
+ ✓ Built file: /Users/Orlanduis/Documents/GitHub/Gelato/backend/js-resolver-template/.tmp/index.js
+ ✓ File size: 1.63mb
+ ✓ Build time: 91.34ms
+
+Web3Function user args validation:
+ ✓ currency: optimism ethereum 
+ ✓ oracle: 0x2491b230BaA58200B0C2857eaB1bFD523bE345b4
+
+Web3Function running...
+
+Web3Function Result:
+ ✓ Return value: {
+  canExec: true,
+  callData: [
+    {
+      to: '0x2491b230BaA58200B0C2857eaB1bFD523bE345b4',
+      data: '0x8d6cc56d0000000000000000000000000000000000000000000000000000000000000769'
+    }
+  ]
+}
+
+Web3Function Runtime stats:
+ ✓ Duration: 3.29s
+ ✓ Memory: 74.78mb
+ ✓ Storage: 0.03kb
+ ✓ Rpc calls: 1000
